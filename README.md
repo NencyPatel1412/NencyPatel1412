@@ -9,5 +9,8 @@ I'm a backend developer with a knack for building strong, reliable systems that 
 :art: Fun Fact: I love paint and enjoy hiking in my free time.<br>
 :inbox_tray: Reach out to me at nencypatel1412@gmail.com <br>
 
-# Socials:
+## :globe_with_meridians: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nency-patel-22b398227/) 
+
+# 💻 Tech Stack:
+
