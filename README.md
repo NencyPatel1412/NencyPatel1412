@@ -10,7 +10,7 @@ I'm a backend developer with a knack for building strong, reliable systems that 
 :inbox_tray: Reach out to me at nencypatel1412@gmail.com <br>
 
 ## :globe_with_meridians: Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nency-patel-22b398227/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nency-patel-22b398227/) 
 
 # :computer: Tech Stack:
 ## 👩🏻‍💻 Programming and Markup Languages
