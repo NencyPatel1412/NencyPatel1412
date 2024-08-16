@@ -30,3 +30,6 @@ I'm a backend developer with a knack for building strong, reliable systems that 
 ![](https://github-readme-stats.vercel.app/api?username=NencyPatel1412&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NencyPatel1412&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NencyPatel1412&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=NencyPatel1412&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
